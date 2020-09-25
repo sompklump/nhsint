@@ -1,8 +1,8 @@
 <?php
 //Declare credentials
 $servername = "localhost";
-$username = "admin";
-$password = "cuba2001";
+$username = "root";
+$password = "password";
 $db = "NHS_PNC";
 
 //Create connection
