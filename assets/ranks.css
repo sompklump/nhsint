@@ -1,0 +1,30 @@
+/* Declaring department colors */
+.department-none {
+  background-color: #f24b4b;
+}
+.department-trial {
+  background-color: #f0c460;
+}
+.department-normal {
+  background-color: #8ad493;
+}
+.department-senior {
+  background-color: #6bb1e3;
+}
+.department-nc{
+  background-color: #d69200;
+}
+.department-deputy {
+  background-color: black;
+  color: #5c91d1;
+}
+.department-chief {
+  background-color: black;
+  color: #c43939;
+}
+.department-dcmo {
+  background-color: #5c91d1;
+}
+.department-cmo {
+  background-color: #c43939;
+}
